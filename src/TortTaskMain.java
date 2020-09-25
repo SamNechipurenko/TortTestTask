@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class TortTaskMain {
     public static void main(String[] args){
         // To check an animal uncomment method listenToTheAnimal() below.
-        // To checks if the brackets are symmetrically arranged in a string uncomment
+        // To check if the brackets are symmetrically arranged in a string uncomment
         // method checkParentheses() below.
 
         // listenToTheAnimal();
